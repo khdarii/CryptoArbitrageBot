@@ -14,7 +14,7 @@ This project simulates a crypto arbitrage trading strategy between multiple fict
 You can install the required dependencies using the following command:
 
 ```bash
-pip install pandas numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ### Usage
